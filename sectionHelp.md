@@ -1,6 +1,10 @@
 # Writing Exercise
 
-Please see my [process outline](veevaProcess.md) for more information of the following exercise below.
+Please see my [process outline](veevaProcess.md) for more information on the following exercise below. **Note**: the links shown are clickable, but the link to [section help configuration](#section-help-configuration) is the only one that really works within the document because this is just a snippet and mimic of [this site page](http://vaulthelp.vod309.com/wordpress/admin-user-help/fields-objects/configuring-object-page-layouts/).
+
+---
+---
+---
 
 ## How to Add Detail Forms
 To add a detail form section:
