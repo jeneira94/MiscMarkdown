@@ -20,4 +20,4 @@
 - Another curiosity of mine about the feature was the user story also indicated the section help textbox title should have a text called "Show help to
 viewers of this Section Learn More", but the step preceding it titled it as "Section Help". _**I was wondering how was this supposed to look like? Was the sentence mistakenly written as a textbox title as well or is it meant to be the description of the title "Section Help"?**_
 
-Thank you for taking the time to look over my writing exercise.
+Thank you for taking the time to look over my [writing exercise](sectionHelp.md).
