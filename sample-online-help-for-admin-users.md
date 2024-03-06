@@ -100,7 +100,7 @@ These are the following notification templates used for email intake:
 
 ### <a id="message-temp-token"></a>Message Template Tokens
 
-QualityOne Vaults can use additional token support using standard [object notification configurations](#email-and-messages-administration). [Tokens](#using-tokens) are pieces of text that are replaced at the time the notification is used. To configure the notification templates, use tokens within the email content for document notification templates.
+QualityOne Vaults can use additional token support using standard [object notification](#email-and-messages-administration) configurations. [Tokens](#using-tokens) are pieces of text that are replaced at the time the notification is used. To configure the notification templates, use tokens within the email content for document notification templates.
 
 [0]: #about
 [1]: #about-intake
